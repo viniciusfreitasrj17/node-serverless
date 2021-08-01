@@ -1,0 +1,13 @@
+{
+  "name": "node-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "serverless-http": "^2.7.0",
+    "serverless-offline": "^8.0.0"
+  }
+}
